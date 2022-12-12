@@ -1,3 +1,3 @@
 ## AmazonEmail
 
- view the documentation at: https://github.com/rocketbot-cl/SAPB1/blob/master/example/Manual_AmazonEmail.pdf
+ view the documentation at: https://github.com/rocketbot-cl/AmazonEmail/blob/master/example/Manual_AmazonEmail.pdf
